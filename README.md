@@ -1,5 +1,5 @@
 # Artificial Neural Network
-Example of a Artificial Neural Network using Matlab function *feedforwardnet* (Deep Learning Toolbox) and Python function *sklearn.neural_network.MLPRegressor* (Scikit-learn Module). The training dataset includes 95 samples, with 2 features as input (**X**) and 1 output (**y**).
+Example of an Artificial Neural Network (ANN) using Matlab function *feedforwardnet* (Deep Learning Toolbox) and Python function *sklearn.neural_network.MLPRegressor* (Scikit-learn Module). It is used a supervised learning approach, i.e., the algorithms are trained on input data that has been labeled for a particular output. The training dataset includes 95 samples, with 2 features as input (**X**) and 1 output (**y**).
 
 ## References
 
