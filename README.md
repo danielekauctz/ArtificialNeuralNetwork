@@ -7,4 +7,4 @@ Bishop, C. M. (2005). Neural Networks for Pattern Recognition. Oxford University
 
 Pedregosa, F.; Varoquaux, G.; Gramfort, A.; Michel, V.; Thirion, B.; Grisel, O.; Blondel, M.; Prettenhofer, P.; Weiss, R.; Dubourg, V.; Vanderplas, J.; Passos, A.; Cournapeau, D.; Brucher, M.; Perrot, M.; Duchesnay, E. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825-2830.
 
-The MathWorks Inc. (2023). Deep Learning Toolbox Documentation, Natick, Massachusetts: The MathWorks Inc. https://www.mathworks.com/help/deeplearning
+The MathWorks Inc. (2023). Deep Learning Toolbox Documentation, Natick, Massachusetts: The MathWorks Inc.
